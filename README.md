@@ -1,2 +1,2 @@
 # airplanes-delays
-This  is my data_602 project
+This project is about data 602
